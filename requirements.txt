@@ -1,6 +1,13 @@
-Flask
-sklearn
-pandas
+smbprotocol
+httpx
+pathlib
 numpy
-matplotlib
-pip install -r requirements.txt
+camelot-py
+PyMuPDF
+opencv-python-headless
+tabula-py
+ghostscript
+pydantic
+PyPDF2==2.12.1
+pdfminer.six
+pdfminer.six[image]
